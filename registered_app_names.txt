@@ -1,0 +1,1 @@
+["notes", "clock", "onestore", "settings", "browser"]
